@@ -1,0 +1,14 @@
+.NavBar {
+    background-color: lightblue;
+    height: 50px;
+    text-align: center;
+}
+.NavBar.a {
+    padding: 10px;
+    line-height: 40px;
+}
+
+a.active {
+    color: black;
+    font-weight: bold;
+}
